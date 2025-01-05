@@ -1,5 +1,5 @@
 
-# Mediapipe & OpenCV Multi-Tool Suite
+# I hate using my mouse for things I don't need to (Mediapipe & OpenCV Multi-Tool Suite)
 
 ## Overview
 This project is a multi-functional software suite leveraging **Mediapipe** and **OpenCV** to implement advanced face, hand, and body tracking algorithms. The suite includes tools such as a virtual mouse, body language detector, and facial ID recognition system, offering a versatile platform for creative and practical applications.
